@@ -1,4 +1,2 @@
-.sabaenv/
 __pycache__/
-*.sqlite3
 static_cdn/

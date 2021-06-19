@@ -21,6 +21,7 @@ def blink():
 
 
 def dht22():
+    GPIO.setmode(GPIO.BCM)
     dhtDevice = adafruit_dht.DHT22(board.D4, use_pulseio=False)
     temp = dhtDevice.temperature
     humi = dhtDevice.humidity

@@ -6,6 +6,10 @@ uas archlinux arm, apache2, SQLite
 
 Just for fun :)
 
+# Screenshot
+
+![screenshot](./screenshot.png)
+
 # Notes
 
 ### Not running on a RPi!
